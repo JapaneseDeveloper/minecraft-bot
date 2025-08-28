@@ -146,18 +146,18 @@ guard:
 
 ---
 
-## 🧩 Commands & Permissions
+## 🧩 Commands & Descriptions
 
-| Command                  | Description               | Permission         | Default         |
-| ------------------------ | ------------------------- | ------------------ | --------------- |
-| `/bot help`              | Show help                 | `minebot.help`     | all             |
-| `/bot follow <player>`   | Follow a player           | `minebot.follow`   | op              |
-| `/bot guard <player>`    | Toggle guard mode         | `Toggle guard mode`| all             |
-| `/bot farm <radius>`     | Start/stop farming        | `minebot.farm`     | op              |
-| `/bot gather <resource>` | Gather specified resource | `minebot.gather`   | op              |
-| `/bot goto <x> <y> <z>`  | Move to coordinates       | `minebot.goto`     | op              |
+| Command                  | Description               |
+| ------------------------ | ------------------------- |
+| `.bot help`              | Show help                 |
+| `.bot follow <player>`   | Follow a player           |
+| `.bot guard <player>`    | Toggle guard mode         |
+| `.bot farm <radius>`     | Start/stop farming        |
+| `.bot gather <resource>` | Gather specified resource |
+| `.bot goto <x> <y> <z>`  | Move to coordinates       |
 
-> Configure permission defaults via **LuckPerms** or your permission system of choice.
+> Configure commands via entering **.config** folder in your mods.
 
 ---
 
@@ -252,16 +252,6 @@ If you discover a vulnerability, please **do not** file a public issue. Email `s
 
 ---
 
-## 🙏 Acknowledgements
-
-* <a href="https://papermc.io/">PaperMC</a>
-* <a href="https://www.spigotmc.org/">Spigot</a>
-* <a href="https://www.spongepowered.org/">Sponge API</a>
-* <a href="https://bstats.org/">bStats</a>
-* <a href="https://pathfindinglib.example/">Your pathfinding lib</a>
-
----
-
 ## 📜 License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
@@ -269,7 +259,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  <a href="https://github.com/JapaneseDeveloper"><img src="https://img.shields.io/badge/GitHub-USERNAME-181717?logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/JapaneseDeveloper"><img src="https://img.shields.io/badge/GitHub-JapaneseDeveloper-181717?logo=github" alt="GitHub"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter" alt="Twitter"/></a>
   <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube" alt="YouTube"/></a>
   <a href="https://ko-fi.com/yourname"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?logo=Ko-fi" alt="Ko-fi"/></a>
