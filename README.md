@@ -15,9 +15,9 @@
 
 <p align="center">
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/releases">
-    <img alt="Download" src="https://img.shields.io/github/v/release/USERNAME/minecraft-bot?logo=github&label=release&color=blue"/>
+    <img alt="Download" src="https://img.shields.io/github/v/release/JapaneseDeveloper/minecraft-bot?logo=github&label=release&color=pink"/>
   </a>
-  <a href="https://github.com/JapaneseDeveloper/REPO/actions">
+  <a href="https://github.com/JapaneseDeveloper/minecraft-bot/actions">
     <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/JapaneseDeveloper/minecraft-bot/ci.yml?label=CI&logo=githubactions"/>
   </a>
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/stargazers">
@@ -27,7 +27,7 @@
     <img alt="Issues" src="https://img.shields.io/github/issues/JapaneseDeveloper/minecraft-bot?logo=github"/>
   </a>
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/blob/main/LICENCE.md">
-    <img alt="License" src="https://img.shields.io/badge/License-MineBot-blueviolet.svg"/>
+    <img alt="License" src="https://img.shields.io/badge/License-MineBot-pink.svg"/>
   </a>
   <a href="https://discord.gg/your-invite">
     <img alt="Discord" src="https://img.shields.io/discord/000000000000000000?label=chat&logo=discord"/>
