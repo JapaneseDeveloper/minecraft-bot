@@ -11,22 +11,22 @@
 </p>
 
 <h1 align="center">🧠 MineBot — Smart Minecraft Automation</h1>
-<p align="center">A fast, extensible Minecraft bot/plugin for pathfinding, farming, trading, guarding, and more. Built with love for Paper/Spigot servers.</p>
+<p align="center">A fast, extensible Minecraft bot powered by AI for pathfinding, farming, trading, guarding, and more. Built with precision for Professionals from Professionals.</p>
 
 <p align="center">
-  <a href="https://github.com/USERNAME/REPO/releases">
+  <a href="https://github.com/JapaneseDeveloper/REPO/releases">
     <img alt="Download" src="https://img.shields.io/github/v/release/USERNAME/REPO?logo=github&label=release&color=blue"/>
   </a>
-  <a href="https://github.com/USERNAME/REPO/actions">
+  <a href="https://github.com/JapaneseDeveloper/REPO/actions">
     <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/USERNAME/REPO/ci.yml?label=CI&logo=githubactions"/>
   </a>
-  <a href="https://github.com/USERNAME/REPO/stargazers">
+  <a href="https://github.com/JapaneseDeveloper/REPO/stargazers">
     <img alt="Stars" src="https://img.shields.io/github/stars/USERNAME/REPO?style=flat"/>
   </a>
-  <a href="https://github.com/USERNAME/REPO/issues">
+  <a href="https://github.com/JapaneseDeveloper/REPO/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/USERNAME/REPO?logo=github"/>
   </a>
-  <a href="https://github.com/USERNAME/REPO/blob/main/LICENSE">
+  <a href="https://github.com/JapaneseDeveloper/REPO/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg"/>
   </a>
   <a href="https://discord.gg/your-invite">
@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Views&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JapaneseDeveloper&label=Views&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -70,7 +70,7 @@
 > Replace with GIFs or screenshots hosted in your repo.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/.github/assets/demo-pathfinding.gif" alt="pathfinding demo" width="80%" />
+  <img src="https://raw.githubusercontent.com/JapaneseDeveloper/REPO/main/.github/assets/demo-pathfinding.gif" alt="pathfinding demo" width="80%" />
 </p>
 
 ---
@@ -148,14 +148,14 @@ guard:
 
 ## 🧩 Commands & Permissions
 
-| Command                  | Description               | Permission         | Default         |    |
-| ------------------------ | ------------------------- | ------------------ | --------------- | -- |
-| `/bot help`              | Show help                 | `minebot.help`     | all             |    |
-| `/bot follow <player>`   | Follow a player           | `minebot.follow`   | op              |    |
-| \`/bot guard \[on        | off]\`                    | Toggle guard mode  | `minebot.guard` | op |
-| \`/bot farm \[start      | stop]\`                   | Start/stop farming | `minebot.farm`  | op |
-| `/bot gather <resource>` | Gather specified resource | `minebot.gather`   | op              |    |
-| `/bot goto <x> <y> <z>`  | Move to coordinates       | `minebot.goto`     | op              |    |
+| Command                  | Description               | Permission         | Default         |
+| ------------------------ | ------------------------- | ------------------ | --------------- |
+| `/bot help`              | Show help                 | `minebot.help`     | all             |
+| `/bot follow <player>`   | Follow a player           | `minebot.follow`   | op              |
+| `/bot guard <player>`    | Toggle guard mode         | `Toggle guard mode`| all             |
+| `/bot farm <radius>`     | Start/stop farming        | `minebot.farm`     | op              |
+| `/bot gather <resource>` | Gather specified resource | `minebot.gather`   | op              |
+| `/bot goto <x> <y> <z>`  | Move to coordinates       | `minebot.goto`     | op              |
 
 > Configure permission defaults via **LuckPerms** or your permission system of choice.
 
@@ -246,18 +246,6 @@ jobs:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please:
-
-1. Read the **Code of Conduct**.
-2. Discuss changes via **Issues** or **Discussions**.
-3. Use feature branches & conventional commits.
-
-<a href="https://github.com/USERNAME/REPO/compare"><img src="https://img.shields.io/badge/PRs-welcome-2ea44f?logo=github" alt="PRs welcome"/></a>
-
----
-
 ## 🔐 Security Policy
 
 If you discover a vulnerability, please **do not** file a public issue. Email `security@yourdomain.dev` or use GitHub Security Advisories.
@@ -281,7 +269,7 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 ---
 
 <p align="center">
-  <a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-USERNAME-181717?logo=github" alt="GitHub"/></a>
+  <a href="https://github.com/JapaneseDeveloper"><img src="https://img.shields.io/badge/GitHub-USERNAME-181717?logo=github" alt="GitHub"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter" alt="Twitter"/></a>
   <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube" alt="YouTube"/></a>
   <a href="https://ko-fi.com/yourname"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?logo=Ko-fi" alt="Ko-fi"/></a>
