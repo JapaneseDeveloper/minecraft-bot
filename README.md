@@ -26,8 +26,8 @@
   <a href="https://github.com/JapaneseDeveloper/REPO/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/USERNAME/REPO?logo=github"/>
   </a>
-  <a href="https://github.com/JapaneseDeveloper/REPO/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/License-MIT-green.svg"/>
+  <a href="https://github.com/JapaneseDeveloper/minecraft-bot/blob/main/LICENCE.md">
+    <img alt="License" src="https://img.shields.io/badge/License-MineBot-blueviolet.svg"/>
   </a>
   <a href="https://discord.gg/your-invite">
     <img alt="Discord" src="https://img.shields.io/discord/000000000000000000?label=chat&logo=discord"/>
@@ -50,18 +50,17 @@
 
 ## ✨ Highlights
 
+* 💡 Can be easily modified
 * 🧭 **A**\* pathfinding with obstacle avoidance
 * 🌾 Automated **farming** (plant/harvest/replant)
 * 🛡️ **Guard** mode (protect a player or region)
 * 🛒 Villager **trading** & bartering tasks
 * ⛏️ Smart **resource gathering** (ores, wood, food)
 * 📦 **Task scheduler** with priorities & cooldowns
-* 💬 Chat **command system** with permissions
-* 🔌 **Plugin API** for custom goals & behaviors
-* 📊 **Metrics toggle** (bStats ready)
+* 💬 Uses AI-ChatBots for writing in the chat
 * 🧪 CI-tested with GitHub Actions
 
-> Works great on **Paper** and **Spigot** servers. Target **Minecraft 1.20–1.21** (adjust as needed).
+> Works great in multiplayer servers. Target **Minecraft 1.20–1.21** (adjust as needed).
 
 ---
 
@@ -79,8 +78,13 @@
 
 ### Requirements
 
-* Java 17+
-* Paper/Spigot server (1.20–1.21)
+| Minimum                  | Recommended               |
+| ------------------------ | ------------------------- |
+| GTX 1650 Super           | RTX 3060                  |
+| 8 GB RAM                 | 16 GB Ram                 |
+| 5 GB Free Space          | 10 GB Free Space          |
+| Intel i5-10100F          | Intel i7-11700kf          |
+| Java 17+                 | Java 17+                  |
 
 ### Install (Plugin JAR)
 
@@ -148,14 +152,16 @@ guard:
 
 ## 🧩 Commands & Descriptions
 
-| Command                  | Description               |
-| ------------------------ | ------------------------- |
-| `.bot help`              | Show help                 |
-| `.bot follow <player>`   | Follow a player           |
-| `.bot guard <player>`    | Toggle guard mode         |
-| `.bot farm <radius>`     | Start/stop farming        |
-| `.bot gather <resource>` | Gather specified resource |
-| `.bot goto <x> <y> <z>`  | Move to coordinates       |
+| Command                             | Description               |
+| ----------------------------------- | ------------------------- |
+| `.bot help`                         | Show help                 |
+| `.bot follow <player> <toggle>`     | Follow a player           |
+| `.bot guard <entity/area> <toggle>` | Toggle guard mode         |
+| `.bot farm <radius> <toggle>`       | Toggle farming            |
+| `.bot gather <resource> <toggle>`   | Gather specified resource |
+| `.bot goto <x> <y> <z> <toggle>`    | Move to coordinates       |
+| `.bot shift <toggle>`               | Toggle Shifting           |
+| `.bot stop`                         | Stops every proccess      |
 
 > Configure commands via entering **.config** folder in your mods.
 
