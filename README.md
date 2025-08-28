@@ -14,17 +14,17 @@
 <p align="center">A fast, extensible Minecraft bot powered by AI for pathfinding, farming, trading, guarding, and more. Built with precision for Professionals from Professionals.</p>
 
 <p align="center">
-  <a href="https://github.com/JapaneseDeveloper/REPO/releases">
-    <img alt="Download" src="https://img.shields.io/github/v/release/USERNAME/REPO?logo=github&label=release&color=blue"/>
+  <a href="https://github.com/JapaneseDeveloper/minecraft-bot/releases">
+    <img alt="Download" src="https://img.shields.io/github/v/release/USERNAME/minecraft-bot?logo=github&label=release&color=blue"/>
   </a>
   <a href="https://github.com/JapaneseDeveloper/REPO/actions">
-    <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/USERNAME/REPO/ci.yml?label=CI&logo=githubactions"/>
+    <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/JapaneseDeveloper/minecraft-bot/ci.yml?label=CI&logo=githubactions"/>
   </a>
-  <a href="https://github.com/JapaneseDeveloper/REPO/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/USERNAME/REPO?style=flat"/>
+  <a href="https://github.com/JapaneseDeveloper/minecraft-bot/stargazers">
+    <img alt="Stars" src="https://img.shields.io/github/stars/JapaneseDeveloper/minecraft-bot?style=flat"/>
   </a>
-  <a href="https://github.com/JapaneseDeveloper/REPO/issues">
-    <img alt="Issues" src="https://img.shields.io/github/issues/USERNAME/REPO?logo=github"/>
+  <a href="https://github.com/JapaneseDeveloper/minecraft-bot/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/JapaneseDeveloper/minecraft-bot?logo=github"/>
   </a>
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/blob/main/LICENCE.md">
     <img alt="License" src="https://img.shields.io/badge/License-MineBot-blueviolet.svg"/>
