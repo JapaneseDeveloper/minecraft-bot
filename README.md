@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">🧠 MineBot — Smart Minecraft Automation</h1>
-<p align="center">A fast, extensible Minecraft bot powered by AI for pathfinding, farming, trading, guarding, and more. Built with precision for Professionals from Professionals.</p>
+<p align="center">A fast, extensible Minecraft bot powered by AI for pathfinding, farming, trading, guarding, and more. Built with precision for Professionals by Professionals.</p>
 
 <p align="center">
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/releases">
