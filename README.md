@@ -14,10 +14,10 @@
 
 <p align="center">
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/releases">
-    <img alt="Download" src="https://img.shields.io/github/v/release/JapaneseDeveloper/minecraft-bot-FF0000?label=release"/>
+    <img alt="Download" src="https://img.shields.io/github/v/release/JapaneseDeveloper/minecraft-bot?label=release"/>
   </a>
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/JapaneseDeveloper/minecraft-bot-FF0000?style=flat"/>
+    <img alt="Stars" src="https://img.shields.io/github/stars/JapaneseDeveloper/minecraft-bot?style=flat"/>
   </a>
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/JapaneseDeveloper/minecraft-bot?logo=github"/>
