@@ -7,7 +7,6 @@
 <p align="center">
   <img src="https://forthebadge.com/images/badges/made-with-java.svg" alt="made-with-java" />
   <img src="https://forthebadge.com/images/badges/uses-git.svg" alt="uses-git" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="powered-by-coffee" />
 </p>
 
 <h1 align="center">🧠 MineBot — Smart Minecraft Automation</h1>
@@ -15,31 +14,20 @@
 
 <p align="center">
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/releases">
-    <img alt="Download" src="https://img.shields.io/github/v/release/JapaneseDeveloper/minecraft-bot?logo=github&label=release&color=pink"/>
-  </a>
-  <a href="https://github.com/JapaneseDeveloper/minecraft-bot/actions">
-    <img alt="Build" src="https://img.shields.io/github/actions/workflow/status/JapaneseDeveloper/minecraft-bot/ci.yml?label=CI&logo=githubactions"/>
+    <img alt="Download" src="https://img.shields.io/github/v/release/JapaneseDeveloper/minecraft-bot-FF0000?label=release"/>
   </a>
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/stargazers">
-    <img alt="Stars" src="https://img.shields.io/github/stars/JapaneseDeveloper/minecraft-bot?style=flat"/>
+    <img alt="Stars" src="https://img.shields.io/github/stars/JapaneseDeveloper/minecraft-bot-FF0000?style=flat"/>
   </a>
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/issues">
     <img alt="Issues" src="https://img.shields.io/github/issues/JapaneseDeveloper/minecraft-bot?logo=github"/>
   </a>
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/blob/main/LICENCE.md">
-    <img alt="License" src="https://img.shields.io/badge/License-MineBot-pink.svg"/>
+    <img alt="License" src="https://img.shields.io/badge/License-MineBot-FF0000.svg"/>
   </a>
   <a href="https://discord.gg/your-invite">
     <img alt="Discord" src="https://img.shields.io/discord/000000000000000000?label=chat&logo=discord"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="#-features"><img src="https://img.shields.io/badge/Jump_to-Features-7c3aed?logo=readme"/></a>
-  <a href="#-quick-start"><img src="https://img.shields.io/badge/Jump_to-Quick_Start-2563eb"/></a>
-  <a href="#-commands--permissions"><img src="https://img.shields.io/badge/Jump_to-Commands-059669"/></a>
-  <a href="#-configuration"><img src="https://img.shields.io/badge/Jump_to-Config-f59e0b"/></a>
-  <a href="#-development"><img src="https://img.shields.io/badge/Jump_to-Development-ef4444"/></a>
 </p>
 
 <p align="center">
@@ -260,15 +248,13 @@ If you discover a vulnerability, please **do not** file a public issue. Email `s
 
 ## 📜 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under the Custom Proprietary Licence. See [LICENCE](./LICENCE) for more information.
 
 ---
 
 <p align="center">
-  <a href="https://github.com/JapaneseDeveloper"><img src="https://img.shields.io/badge/GitHub-JapaneseDeveloper-181717?logo=github" alt="GitHub"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter" alt="Twitter"/></a>
+  <a href="https://github.com/JapaneseDeveloper"><img src="https://img.shields.io/badge/GitHub-JapaneseDeveloper-FF0000?logo=github" alt="GitHub"/></a>
   <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube" alt="YouTube"/></a>
-  <a href="https://ko-fi.com/yourname"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?logo=Ko-fi" alt="Ko-fi"/></a>
 </p>
 
 ---
