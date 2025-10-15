@@ -295,4 +295,4 @@ Distributed under the **MIT License**. See `LICENSE` for more information.
 
 ---
 
-> *Pro tip:* keep screenshots and GIFs in `.github/assets/` and reference them with raw links so they render nicely on GitHub.
+> Not an official Minecraft product. We are in no way affiliated with or endorsed by Mojang Synergies AB, Microsoft Corporation or other rightsholders.
