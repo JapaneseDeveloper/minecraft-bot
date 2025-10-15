@@ -23,7 +23,7 @@
     <img alt="Issues" src="https://img.shields.io/github/issues/JapaneseDeveloper/minecraft-bot?logo=github"/>
   </a>
   <a href="https://github.com/JapaneseDeveloper/minecraft-bot/blob/main/LICENCE.md">
-    <img alt="License" src="https://img.shields.io/badge/License-MineBot-FF0000.svg"/>
+    <img alt="License" src="https://img.shields.io/badge/License-Custom-FF0000.svg"/>
   </a>
   <a href="https://discord.gg/your-invite">
     <img alt="Discord" src="https://img.shields.io/discord/000000000000000000?label=chat&logo=discord"/>
