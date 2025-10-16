@@ -1,9 +1,3 @@
-<!--
-  Readme template for a Minecraft Bot / Plugin project
-  Uses only publicly available badges and widgets (Shields.io, GitHub Readme Stats, forthebadge, etc.)
-  Replace placeholders like USERNAME, REPO, GROUP_ID, ARTIFACT_ID, com.example, etc.
--->
-
 <p align="center">
   <img src="https://forthebadge.com/images/badges/made-with-java.svg" alt="made-with-java" />
   <img src="https://forthebadge.com/images/badges/uses-git.svg" alt="uses-git" />
