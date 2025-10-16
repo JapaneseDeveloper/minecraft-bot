@@ -252,13 +252,6 @@ Distributed under the Custom Proprietary Licence. See [LICENCE](./LICENCE) for m
 
 ---
 
-<p align="center">
-  <a href="https://github.com/JapaneseDeveloper"><img src="https://img.shields.io/badge/GitHub-JapaneseDeveloper-FF0000?logo=github" alt="GitHub"/></a>
-  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube" alt="YouTube"/></a>
-</p>
-
----
-
 ### 📚 Bonus: Auto-Generated Badges
 
 > Copy any of these quick snippets.
@@ -278,6 +271,11 @@ Distributed under the Custom Proprietary Licence. See [LICENCE](./LICENCE) for m
 <!-- Social -->
 [![Discord](https://img.shields.io/discord/000000000000000000?label=Discord&logo=discord)](https://discord.gg/your-invite)
 ```
+
+<p align="center">
+  <a href="https://github.com/JapaneseDeveloper"><img src="https://img.shields.io/badge/GitHub-JapaneseDeveloper-FF0000?logo=github" alt="GitHub"/></a>
+  <a href="https://www.youtube.com/@yourchannel"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?logo=youtube" alt="YouTube"/></a>
+</p>
 
 ---
 
